@@ -17,7 +17,7 @@ body {
 /* navbar */
 .navbar {
   display: flex; 
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: center;
   padding: 1.4rem 7%;
   background-color: rgba(1, 1, 1, 0.8);
@@ -106,7 +106,7 @@ body {
 
 .hero .content {
   padding: 1.4rem 7%;
-  max-width: 60vh;
+  max-width: 60rem;
 }
 
 .hero .content h1 {
@@ -151,7 +151,7 @@ color: #b6895b;
 
 .About h2, 
 .Menu h2,h1{
-  text-align: left;
+  text-align: center;
   font-size: 2.6rem;
   margin-bottom: 3rem;
 }
