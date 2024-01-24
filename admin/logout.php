@@ -1,6 +1,6 @@
 <?php
 
-header("Location: ../index.php");
+header("Location: ../Project_UAS/");
 exit;
 
 
